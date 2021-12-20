@@ -1,5 +1,5 @@
 # main.py
-annie(alexa) by anup kunal
+annie(alexa) A python project by anup kunal
 A voice assistant created by anup kunal
 
 
