@@ -50,8 +50,7 @@ def run_annie():
         talk('current date is ' + date)
     elif 'who is your father' in command:
         talk("Anup kunal created me so he is my father")
-    elif 'who is priya' in command:
-        talk("priya is girlfriend of kunal")
+    
     elif 'how are you' in command:
         talk("i am absolutely fine")
     elif 'who is your creator' in command:
